@@ -10,4 +10,8 @@ El proyecto está enfocado en la construcción de la interfaz de Goolge, tomando
 ## Objetivo del proyecto
 Aorender a utilizar los elementos de HTMLS y propiedades de Css; así como identificar componentes base de un sitio web para analizar y replicarlos
 
+## Link de la página
+Aquí esta el código para verlo en vivo, creado en netlify
+https://google-san-valentin.netlify.app/
+
 ![image](https://github.com/AmissDany/Clon-de-Google/assets/139643026/4d49bb5c-7787-4078-b0e6-d88ba5cf78c6)
